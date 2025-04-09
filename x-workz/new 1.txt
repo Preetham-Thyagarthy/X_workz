@@ -1,0 +1,6 @@
+class Preetham
+{
+public static void main(String[]args)
+{
+}
+}
